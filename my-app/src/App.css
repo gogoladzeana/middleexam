@@ -1,0 +1,31 @@
+.button{
+  display: flex;
+  margin-left: 645px;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.li1{
+  font-size: 12px;
+  list-style:none;
+  text-align: left;
+  position: absolute;
+  top: 80px;
+  left: 250px;
+}
+.li2{
+  font-size: 12px;
+  list-style:none;
+  text-align: left;
+  position: absolute;
+  top: 80px;
+  left: 450px;
+}
+.li3{
+  font-size: 12px;
+  list-style:none;
+  text-align: left;
+  position: absolute;
+  top: 80px;
+  left: 650px;
+}
